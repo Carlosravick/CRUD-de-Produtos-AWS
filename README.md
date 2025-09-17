@@ -114,5 +114,3 @@ flowchart TD
     B --> C[Lambda CRUD]
     C --> D[DynamoDB - Produtos]
     C --> E[CloudWatch - Logs]
-👨‍💻 Autor
-Carlos Filho
